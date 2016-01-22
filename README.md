@@ -1,5 +1,4 @@
 # Redux-TodoList-Official
-Boilerplate for ReactJS project with Redux and hot code reloading
 
 ### Usage
 
