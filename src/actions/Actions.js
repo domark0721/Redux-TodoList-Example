@@ -22,7 +22,7 @@
 //   SHOW_ACTIVE: 'SHOW_ACTIVE'
 // }
 
-console.log(VisibilityFilters);
+// console.log(VisibilityFilters);
 
  let nextTodoId = 0;
 
